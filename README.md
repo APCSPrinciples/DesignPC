@@ -8,4 +8,5 @@ Design your own custom computer using the [PCPartPicker website](https://pcpartp
 + Case
 + Power Supply
 + Operating System
+
 You are welcome to add any additional components to your build. When you are finished with your build, submit the the permalink at the top left of the page to complete the assignment.
